@@ -17,6 +17,7 @@ To add a new page, you need to modify
 
     app/index.html
     app/elemments/elements.html
+    app/elemments/routing.html
 
 Previous html pages can be found at:
 
