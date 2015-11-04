@@ -30,8 +30,8 @@ Then push the content of the "dist" directory to gh-pages or to wherever you wan
 
 ### Steps in detail
 
-    $> git clone https://github.com/FNNDSC/delayedpuberty.babymri.org.git
-    $> cd delayedpuberty.babymri.org
+    $> git clone https://github.com/FNNDSC/meg.babymri.org.git
+    $> cd meg.babymri.org
     $> npm install
     $> bower install
     $> gulp serve (to run local server)
